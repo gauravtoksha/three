@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">three</string>
+    <string name="genannouncement">General Announcement</string>
+    <string name="perannouncement">Personal Announcement</string>
+    <string name="Send_Notification">Notify</string>
+    <string name="EnterTicket">Your ticket number:</string>
+    <string name="ticket_name">Your name:</string>
+    <string name="add_details">Add Details</string>
+</resources>
